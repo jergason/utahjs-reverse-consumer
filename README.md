@@ -1,7 +1,7 @@
 # Utahjs Reverse Consumer
 
-This is a teeny example app showing how to consume a browser module with and
-Browserify.
+This is a teeny example app showing how to consume our [utahjs-reverse](https://github.com/jergason/utahjs-reverse)
+module with browserify and npm.
 
 
 It is just a simple react app that renders some text into a Reverse component
